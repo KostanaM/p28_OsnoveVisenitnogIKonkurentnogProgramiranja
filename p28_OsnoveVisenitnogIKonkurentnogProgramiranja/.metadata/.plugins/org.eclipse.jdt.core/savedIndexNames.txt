@@ -1,0 +1,11 @@
+INDEX VERSION 1.131+C:\Users\Kostana\Desktop\New folder\IT prekvalifikacije\Predavanja-Eclipse\p28_OsnoveVisenitnogIKonkurentnogProgramiranja\.metadata\.plugins\org.eclipse.jdt.core
+4027547668.index
+1865797976.index
+3133118645.index
+1109844182.index
+2279584005.index
+144655525.index
+1329544821.index
+905932053.index
+1918834629.index
+609821824.index

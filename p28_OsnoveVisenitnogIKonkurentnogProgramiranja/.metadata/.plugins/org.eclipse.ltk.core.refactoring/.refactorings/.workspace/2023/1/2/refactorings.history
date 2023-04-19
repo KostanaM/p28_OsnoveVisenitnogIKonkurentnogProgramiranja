@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;_09_KPV&apos;" deleteContents="false" description="Delete resource &apos;_09_KPV&apos;" element1="/_09_KPV" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1673614869678"/>
+</session>
